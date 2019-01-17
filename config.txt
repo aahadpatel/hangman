@@ -1,0 +1,6 @@
+ServerHostname=localhost
+ServerPort=6789
+DBConnection=jdbc:mysql://localhost:3306/hangmanDatabase
+DBUsername=root
+DBPassword=
+SecretWordFile=hangmanwords.txt
